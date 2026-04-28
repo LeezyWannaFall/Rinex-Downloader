@@ -55,7 +55,7 @@
 pip install requests beautifulsoup4 lxml
 
 # 2. Запустить
-python rinex_parser.py
+python rinex_parser_v3.py
 ```
 
 После запуска программа интерактивно спросит:
